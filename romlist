@@ -1,5 +1,4 @@
 [
 {romid:"6.2.7",romurl:"http://luo2888.tk/miui7/download/miui7_KLTE_luo2888_6.2.7_779e6e4648_4.4.zip",romsize:"548M"};
-{romid:"6.2.7.ota",romurl:"http://luo2888.tk/",romsize:"0M"}
-
+{romid:"ota-test",romurl:"http://luo2888.tk/other/ota_test.zip",romsize:"未知"}
 ]
